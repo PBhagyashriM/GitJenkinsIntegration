@@ -27,7 +27,7 @@ public class day_1 {
 		  Thread.sleep(3000);
 	  }
 	@Test(groups= {"sanity","alpha"})
-	  public void testcase5() throws InterruptedException {
+	  public void testcase6() throws InterruptedException {
 		  System.out.println("i am in tc sanity,&alpha");
 		  Thread.sleep(3000);
 	  }
